@@ -1,4 +1,4 @@
-### Howdy 😜
+### Howdy 🤩
 
 - 🌱 I’m currently learning about html and Javascript
 - 🔭 I’m currently working on weather app project
