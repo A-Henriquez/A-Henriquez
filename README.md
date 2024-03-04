@@ -1,4 +1,5 @@
 ### Howdy 😜
+
 -🔭 I’m currently working on weather app project
 - 🌱 I’m currently learning about html and Javascript
 - 🤔 I’m looking for help with getting familiar with GitHub
